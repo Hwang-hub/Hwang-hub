@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hellow%20World)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hello%20My%20Partner)
   
 
 ## Tool
